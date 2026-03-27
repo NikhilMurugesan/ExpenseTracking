@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+id btnBackup
+id btnRefresh
+id cardSummary
+id recyclerViewCategories
+id recyclerViewLedger
+id recyclerViewTransactions
+id tvAmount
+id tvBalance
+id tvCategoryName
+id tvCategoryTotal
+id tvContactName
+id tvDate
+id tvMerchant
+id tvTitle
+id tvTotalExpense
+layout activity_main
+layout fragment_categories
+layout fragment_ledger
+layout fragment_transactions
+layout item_category
+layout item_ledger
+layout item_transaction
+string app_name
+style Theme.ExpenseTracker

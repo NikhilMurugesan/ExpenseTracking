@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/item_ledger.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/item_ledger.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/fragment_transactions.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/item_transaction.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/fragment_categories.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/item_category.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-40:/layout/fragment_ledger.xml",
+        "source": "com.example.expensetracker.app-main-43:/layout/fragment_ledger.xml"
+    }
+]
