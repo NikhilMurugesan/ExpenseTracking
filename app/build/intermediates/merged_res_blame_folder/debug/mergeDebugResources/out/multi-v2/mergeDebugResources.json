@@ -7394,10 +7394,10 @@
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "16",
+                        "startOffsets": "17",
                         "endLines": "5",
                         "endColumns": "12",
-                        "endOffsets": "259"
+                        "endOffsets": "264"
                     },
                     "to": {
                         "startLines": "6397",
